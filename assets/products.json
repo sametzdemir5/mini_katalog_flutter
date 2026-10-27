@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Kablosuz Kulaklık",
+    "price": 450.0
+  },
+  {
+    "id": "2",
+    "name": "Mekanik Klavye",
+    "price": 850.0
+  },
+  {
+    "id": "3",
+    "name": "Oyuncu Mouse",
+    "price": 300.0
+  }
+]
